@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Image-Processor</string>
+
+    <string name="label_chooser_title">Please, select the action</string>
+    <string name="message_camera_permissions_needed">Camera permissions needed. Please allow in App Settings for additional functionality.</string>
+    <string name="message_download_image">Please, wait until image is loading&#8230;</string>
+
+    <string name="label_input_url_hint">http://example.com/image.jpg</string>
+
+    <string name="dialog_input_url_title">Image url</string>
+    <string name="dialog_input_url_message">Please, enter the image url</string>
+
+    <string name="dialog_operation_menu_title">Select action</string>
+    <string name="label_use_uri">Use this result for next</string>
+    <string name="label_remove">Remove result</string>
+
+    <string name="dialog_image_select_title">Select the source for the image</string>
+    <string name="label_image_select_local">Locale source</string>
+    <string name="label_image_select_url">Remote source</string>
+</resources>
